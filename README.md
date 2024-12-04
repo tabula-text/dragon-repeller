@@ -1,2 +1,2 @@
 # dragon-repeller
-Dragon Repeller – fCC JS project
+Dragon Repeller er verkefni sem ég byggði í gegnum freeCodeCamp námskeiðið "JavaScript Algorithms and Data Structures", og er einfaldur RPG leikur sem setur þig í spor ævintýrahetju sem hefur það að markmiði að safna kröftum til þess að bana drekanum sem herjar á þorpið hans. Ég á lítið sem ekkert í þessum kóða enda er hann tutorial á vegum fCC, en mér fannst ég læra svo margt á því að byggja hann að ég ákvað að vista hann hérna. Ég hef íhugað að taka snúning á leikinn og breyta ýmsum nöfnum, en það bíður kannski betri tíma.
